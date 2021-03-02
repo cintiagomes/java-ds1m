@@ -1,0 +1,20 @@
+package retangulo;
+
+public class Retangulo {
+	
+	public static void main(String[] args) {
+		
+		float altura;
+		float base;
+		float area;
+		
+		altura = 6;
+		base = 14;
+		
+		area = base * altura;
+		
+		System.out.println(area);
+		
+	}
+
+}
